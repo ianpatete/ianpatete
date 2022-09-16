@@ -6,10 +6,10 @@ Here is a Few of my portfolio Projects
 
 Finding a City of Chiacago Job
 
-  Tools Used:
+  Skills Used:
    -Excell
    
-      Skills Used:
+      Tools Used:
       
        -VLOOKUP(), SEARCH(), MATCH() 
        -IF(), SUMIF(), AVERAGEIF()
