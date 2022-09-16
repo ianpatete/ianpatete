@@ -1,22 +1,31 @@
 Hi, I’m @ianpatete
 
-I am a budding Data Analyst who is looking to showcase their skills.
+I am a budding Data Analyst who is looking to showcase their skills. Here is a few of my Portfolio Projects:
 
-Here is a Few of my portfolio Projects 
+Finding a City of Chicago Job
 
-Finding a City of Chiacago Job
+    Skills Used:
+          -Excel
+          -Medium
+         
+    Tools Used:
+         -VLOOKUP(), SEARCH(), MATCH(), IF(), SUMIF(), AVERAGEIF()
+         -Pivot Tables
+         -Charts
 
-  Skills Used:
-   -Excell
-   
-      Tools Used:
-      
-       -VLOOKUP(), SEARCH(), MATCH() 
-       -IF(), SUMIF(), AVERAGEIF()
-       -Pivot Tables
-       -Charts
+COVID Deaths and Health Accross the World
 
-
+    Skills Used:
+        -SQL
+        -Tableau
+    
+    Tools used:
+        -MySQL
+        -Joins, CTE's, Sub-queries, Temp Tables, Aggregate Functions, Creating Views, Converting Data Types
+        -Mapped Data
+        -Bar Charts, Pie Charts Histograms, Scatter Plots, Cluster Analysis, Filters
+        -Story-boarding
+        
 
 
 
