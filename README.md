@@ -1,8 +1,18 @@
 Hi, I’m @ianpatete
 
-I am a budding Data Analyst who is looking to showcase their skills. Here is a few of my [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):
+I am a budding Data Analyst who is looking to showcase their skills. 
 
-Finding a City of Chicago Job
+Your can checkout my skills here: 
+
+[SQL](https://github.com/ianpatete/Skills/tree/main/SQL)
+
+[Excel](https://github.com/ianpatete/Skills/tree/main/Excel):
+
+[Tableau](https://github.com/ianpatete/Skills/tree/main/Tableau):
+
+Here is a few of my [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):
+
+[Finding a City of Chicago Job](https://github.com/ianpatete/Skills/tree/main/SQL):
 
 
     Skills Used:
