@@ -5,10 +5,13 @@ I am a budding Data Analyst who is looking to showcase their skills.
 Here is a Few of my portfolio Projects 
 
 Finding a City of Chiacago Job
+
   Tools Used:
    -Excell
+   
       Skills Used:
-`      -VLOOKUP(), SEARCH(), MATCH() 
+      
+       -VLOOKUP(), SEARCH(), MATCH() 
        -IF(), SUMIF(), AVERAGEIF()
        -Pivot Tables
        -Charts
