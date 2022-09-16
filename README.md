@@ -1,6 +1,7 @@
 Hi, I’m @ianpatete
 
-I am a budding Data Analyst who is looking to showcase their skills. Here is a few of my [](Portfolio-Project/README.md):
+I am a budding Data Analyst who is looking to showcase their skills. Here is a few of my [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):
+
 Finding a City of Chicago Job
 
 
