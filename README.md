@@ -13,7 +13,7 @@ Finding a City of Chicago Job
          -Pivot Tables
          -Charts
 
-COVID Deaths and Health Accross the World
+COVID Deaths and Health Across the World
 
     Skills Used:
         -SQL
