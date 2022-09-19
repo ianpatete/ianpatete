@@ -50,7 +50,7 @@ One misunderstood aspects of the crypto market is the inflation rate of each tok
         
 I have even more content displaying some of my work. You can check it out, orginized by skills, here:  
 
-[SQL](https://github.com/ianpatete/Skills/tree/main/SQL)
+[SQL](https://github.com/ianpatete/Skills/tree/main/SQL):
 
 [Excel](https://github.com/ianpatete/Skills/tree/main/Excel):
 
