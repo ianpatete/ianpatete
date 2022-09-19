@@ -44,7 +44,7 @@ One misunderstood aspects of the crypto market is the inflation rate of each tok
     
     Tools used:
         -Google Sheets 
-        - QUERY(), VLOOKUP(), ARRAYFORMULA(), IFERROR()
+        -QUERY(), VLOOKUP(), ARRAYFORMULA(), IFERROR()
         -API COnnector, Messari APIs, Coingecko APIs 
         -Counters, Dual Axis Charts, Controls
         
