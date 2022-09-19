@@ -21,6 +21,8 @@ In this project I imported and cleaned public jobs data from the City of Chicago
 
 [COVID Deaths and Health Across the World](https://github.com/ianpatete/Portfolio-Projects/tree/main/COVID-Deaths-and-Health-Across-the-World):
 
+I believe in a personal responsibility to contribute positively to the world's safety and understanding regarding COVID-19. Using my bachelor's Level understanding of Biology, my passion for fitness and nutrition, and my data analyst skill, I created a project to analyze Covid Deaths across the world using different health metrics. 
+
     Skills Used:
         -SQL
         -Tableau
@@ -33,6 +35,8 @@ In this project I imported and cleaned public jobs data from the City of Chicago
         -Story-boarding
 
 [Crypto Inflation Dashboard](https://github.com/ianpatete/Portfolio-Projects/tree/main/Crypto-Inflation-Dashboard):
+
+One misunderstood aspects of the crypto market is the inflation rate of each token. I wanted to create a dasboard that monitors the increasing supply that enters the public sphere using monthy, daily, and graphical formats.  
 
     Skills Used:
         -Excel
