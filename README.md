@@ -5,7 +5,7 @@ Budding Data Analyst with 2 years of experience in market research while complet
 
 Here is a few of my [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):
 
-[Finding a City of Chicago Job]([https://github.com/ianpatete/Skills/tree/main/SQL](https://github.com/ianpatete/Portfolio-Projects/tree/main/Finding-a-City-of-Chicago-Job)):
+[Finding a City of Chicago Job](https://github.com/ianpatete/Portfolio-Projects/tree/main/Finding-a-City-of-Chicago-Job):
 
 This project involved importing and cleaning public jobs data from the City of Chicago in order to gain insights about possible job opportunities that fit my skillset, interest, and future outlook. This project was a success and helped me discover a job to apply to.  
 
