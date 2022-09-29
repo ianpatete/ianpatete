@@ -1,6 +1,6 @@
 Hi, I’m @ianpatete
 
-Budding Data Analyst with 2 years of experience in market research while completing multiple data-based projects SQL, Tableau, and Excel. Additionally, wrote about complex technical information and condensed it for general audiences. I'm seeking an Entry / Junior Data Analyst Job where analyast skills can be further developed. 
+Budding Data Analyst with 2 years of experience in market research while completing multiple data-based projects SQL, Tableau, and Excel. Additionally, wrote about complex technical information and condensed it for general audiences. I'm seeking an Entry / Junior Data Analyst Job where analyst skills can be further developed. 
 
 
 Here is a few of my [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):
