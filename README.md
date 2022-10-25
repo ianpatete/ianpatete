@@ -34,6 +34,21 @@ I believe in a personal responsibility to contribute positively to the world's s
         -Bar Charts, Pie Charts Histograms, Scatter Plots, Cluster Analysis, Filters
         -Story-boarding
 
+[The Celsius Story](https://github.com/ianpatete/Portfolio-Projects/tree/main/The-Celcius-Story)
+
+Recently, the crypto lending platform Celsius leaked massive amounts of user data in their bankruptcy filings. Some people took the data and created questionable products that were spread on social media. These were used to find out about personal losses by some but were also used to bully and publicly shame others. I wanted to look at this data and share it in an ethical way. 
+
+    Skills Used:
+        -SQL
+        -Tableau
+    
+    Tools used:
+        -MySQL
+        -Partitions, Case Staements, Joins, CTE's, Sub-queries, Temp Tables, Aggregate Functions, Creating Views, Converting Data Types
+        -Mapped Data
+        -Bar Charts, Pie Charts Histograms, Scatter Plots, Cluster Analysis, Filters
+        -Story-boarding
+
 [Crypto Inflation Dashboard](https://github.com/ianpatete/Portfolio-Projects/tree/main/Crypto-Inflation-Dashboard):
 
 One misunderstood aspects of the crypto market is the inflation rate of each token. The following project a dasboard that monitors the increasing supply that enters the public sphere using monthy, daily, and graphical formats.  
