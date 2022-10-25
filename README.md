@@ -1,9 +1,9 @@
-Hi, I’m @ianpatete
+### Hi, I’m @ianpatete
 
 Budding Data Analyst with 2 years of experience in market research while completing multiple data-based projects SQL, Tableau, and Excel. Additionally, wrote about complex technical information and condensed it for general audiences. I'm seeking an Entry / Junior Data Analyst Job where analyst skills can be further developed. 
 
 
-Here is a few of my [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):
+**Here is a few of my [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):**
 
 [Finding a City of Chicago Job](https://github.com/ianpatete/Portfolio-Projects/tree/main/Finding-a-City-of-Chicago-Job):
 
@@ -48,7 +48,7 @@ One misunderstood aspects of the crypto market is the inflation rate of each tok
         -API COnnector, Messari APIs, Coingecko APIs 
         -Counters, Dual Axis Charts, Controls
         
-More content displaying some of my work. It is orginized by skills and can be found here:  
+**More content displaying some of my work. It is orginized by skills and can be found here:**  
 
 [SQL](https://github.com/ianpatete/Skills/tree/main/SQL):
 
