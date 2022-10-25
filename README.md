@@ -5,20 +5,6 @@ Budding Data Analyst with 2 years of experience in market research while complet
 
 **Here is a few of my [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):**
 
-[Finding a City of Chicago Job](https://github.com/ianpatete/Portfolio-Projects/tree/main/Finding-a-City-of-Chicago-Job):
-
-This project involved importing and cleaning public jobs data from the City of Chicago in order to gain insights about possible job opportunities that fit my skillset, interest, and future outlook. This project was a success and helped me discover a job to apply to.  
-
-
-    Skills Used:
-          -Excel
-          -Medium
-         
-    Tools Used:
-         -VLOOKUP(), SEARCH(), MATCH(), IF(), SUMIF(), AVERAGEIF()
-         -Pivot Tables
-         -Charts
-
 [COVID Deaths and Health Across the World](https://github.com/ianpatete/Portfolio-Projects/tree/main/COVID-Deaths-and-Health-Across-the-World):
 
 I believe in a personal responsibility to contribute positively to the world's safety and understanding regarding COVID-19. Using bachelor's Level understanding of Biology and a passion for fitness and nutrition, and data analysis skills, I created a project to analyze Covid Deaths across the world using different health metrics. 
@@ -48,6 +34,21 @@ Recently, the crypto lending platform Celsius leaked massive amounts of user dat
         -Mapped Data
         -Bar Charts, Pie Charts Histograms, Scatter Plots, Cluster Analysis, Filters
         -Story-boarding
+
+[Finding a City of Chicago Job](https://github.com/ianpatete/Portfolio-Projects/tree/main/Finding-a-City-of-Chicago-Job):
+
+This project involved importing and cleaning public jobs data from the City of Chicago in order to gain insights about possible job opportunities that fit my skillset, interest, and future outlook. This project was a success and helped me discover a job to apply to.  
+
+
+    Skills Used:
+          -Excel
+          -Medium
+         
+    Tools Used:
+         -VLOOKUP(), SEARCH(), MATCH(), IF(), SUMIF(), AVERAGEIF()
+         -Pivot Tables
+         -Charts
+
 
 [Crypto Inflation Dashboard](https://github.com/ianpatete/Portfolio-Projects/tree/main/Crypto-Inflation-Dashboard):
 
