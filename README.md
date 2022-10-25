@@ -20,7 +20,7 @@ I believe in a personal responsibility to contribute positively to the world's s
         -Bar Charts, Pie Charts Histograms, Scatter Plots, Cluster Analysis, Filters
         -Story-boarding
 
-[The Celsius Story](https://github.com/ianpatete/Portfolio-Projects/tree/main/The-Celcius-Story)
+[The Celsius Story](https://github.com/ianpatete/Portfolio-Projects/tree/main/The-Celcius-Story):
 
 Recently, the crypto lending platform Celsius leaked massive amounts of user data in their bankruptcy filings. Some people took the data and created questionable products that were spread on social media. These were used to find out about personal losses by some but were also used to bully and publicly shame others. I wanted to look at this data and share it in an ethical way. 
 
