@@ -3,7 +3,7 @@
 Budding Data Analyst with 2 years of experience in market research while completing multiple data-based projects SQL, Tableau, and Excel. Additionally, wrote about complex technical information and condensed it for general audiences (check out some writing [here](https://rhizoo.substack.com/)). I'm seeking an Entry / Junior Data Analyst Job where analyst skills can be further developed. 
 
 
-**Here is a few of my [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):**
+**Here are a few of my [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):**
 
 [COVID Deaths and Health Across the World](https://github.com/ianpatete/Portfolio-Projects/tree/main/COVID-Deaths-and-Health-Across-the-World):
 
