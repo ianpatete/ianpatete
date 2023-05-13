@@ -1,6 +1,6 @@
 ### Hi, I’m @ianpatete
 
-Budding Data Analyst with 6 months of professional SQL, Tableau, and Excel expirence. Additionally, I have spent 2 years as a crypto research analyst while completing multiple data-based projects in the space. (check out some writing [here](https://rhizoo.substack.com/)). I'm seeking a reasearch role where my lyst skills can be further developed. 
+Budding Data Analyst with 6 months of professional SQL, Tableau, and Excel expirence. Additionally, I have spent 2 years as a crypto research analyst while completing multiple data-based projects in the space. (check out some writing [here](https://rhizoo.substack.com/)). I'm seeking a reasearch role where my analyst skills can be further developed. 
 
 
 **Here are a few of my [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):**
