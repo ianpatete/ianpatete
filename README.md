@@ -1,6 +1,6 @@
 ### Hi, I’m @ianpatete
 
-Budding Data Analyst with 6 months of professional SQL, Tableau, and Excel expirence. Additionally, I have spent 2 years as a crypto research analyst while completing multiple data-based projects in the space. I'm seeking a reasearch role where my analyst skills can be further developed. 
+Budding Data Analyst with 6 months of professional SQL, Tableau, and Excel experience. Additionally, I have spent 2 years as a crypto research analyst while completing multiple data-based projects in the space. I'm seeking a research role where my analyst skills can be further developed. 
 
 
 **Here are a few of my [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):**
@@ -30,7 +30,7 @@ Recently, the crypto lending platform Celsius leaked massive amounts of user dat
     
     Tools used:
         -MySQL
-        -Partitions, Case Staements, Joins, CTE's, Sub-queries, Temp Tables, Aggregate Functions, Creating Views, Converting Data Types
+        -Partitions, Case Statements, Joins, CTE's, Sub-queries, Temp Tables, Aggregate Functions, Creating Views, Converting Data Types
         -Mapped Data
         -Bar Charts, Pie Charts Histograms, Scatter Plots, Cluster Analysis, Filters
         -Story-boarding
