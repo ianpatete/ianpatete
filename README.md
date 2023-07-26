@@ -2,6 +2,13 @@
 
 Budding Data Analyst with 6 months of professional SQL, Tableau, and Excel experience. Additionally, I have spent 2 years as a crypto research analyst while completing multiple data-based projects in the space. I'm seeking a research role where my analyst skills can be further developed. 
 
+The highlights of my report portfolio are the following:
+[The Rook DAO Story: Postmortem of the $25M governance takeover](https://mirror.xyz/rhizoo.eth/6ggZQ2g5OpUVaAXEwYBldN2gT1CZxfR2D2sL9cn0eJc)
+This report details the true events of the recent dissolution of Rook DAO, a former MEV infrastructure project. While most coverage depicts a peaceful separation between the community and developers, this report unveils a riveting story that questions the fundamental basis of governance in crypto. It provokes several questions: Where is the line between collective movement and governance attack? Who determines ethics in this field, mobs or crypto builders? Do DAOs serve any practical purpose, or are they merely ideological? With enough money, influence, and votes, can anyone subjugate a DAO to ensure a desired outcome?
+
+[Blockchain Fundamentals 1](https://docs.google.com/document/d/1GAXg9XqNL5PsOG2OTw6yVt_NSeV_I_fC/edit?usp=sharing&rtpof=true&sd=true) 
+Intended as a marketing funnel for crypto-interested developers, the Blockchain Fundamentals 1 report defines the core values of crypto while explaining the social and technological innovations that made it possible. Using the historic origins of the space, this report explains the most important question - Why crypto? - to potential developers looking for a purpose in their engineering.  
+
 
 **Here are a few of my [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):**
 
