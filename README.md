@@ -76,7 +76,7 @@ This project involved importing and cleaning public jobs data from the City of C
 
 [SQL](https://github.com/ianpatete/Skills/tree/main/SQL):
 
-[Python](https://github.com/ianpatete/Skills/tree/main/Python):
+[Python]([https://github.com/ianpatete/Skills/tree/main/Python):
 
 [Excel](https://github.com/ianpatete/Skills/tree/main/Excel):
 
