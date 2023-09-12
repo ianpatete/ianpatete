@@ -14,6 +14,19 @@ Intended as a marketing funnel for crypto-interested developers, the Blockchain 
 
 **Here are a few of my [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):**
 
+[Farcaster Dashboard](https://github.com/ianpatete/Portfolio-Projects/tree/main/Crypto-Inflation-Dashboard):
+
+Facaster is a new social platform created from first principles using blockchain primitives. An improvement over modern social platforms, Farcaster relies on public infrastructure to store account information and follower social graphs delegating complete control to the users. Using crypto content assets, Farcaster provides a censorship resistant system to publish social content online.  
+
+    Skills Used:
+        -Python (jupyter notebook psycopg2 csv os streamlit pandas matplotlib) 
+        -Docker
+    
+    Tools used:
+        -Pandas, SQL, ChatGPT
+        -POSTGRESQL connectors, Streamlit data viz
+        -Counters, Dual Axis Charts, Timeseries viz
+
 [COVID Deaths and Health Across the World](https://github.com/ianpatete/Portfolio-Projects/tree/main/COVID-Deaths-and-Health-Across-the-World):
 
 I believe in a personal responsibility to contribute positively to the world's safety and understanding regarding COVID-19. Using bachelor's Level understanding of Biology and a passion for fitness and nutrition, and data analysis skills, I created a project to analyze Covid Deaths across the world using different health metrics. 
@@ -58,20 +71,6 @@ This project involved importing and cleaning public jobs data from the City of C
          -Pivot Tables
          -Charts
 
-
-[Crypto Inflation Dashboard](https://github.com/ianpatete/Portfolio-Projects/tree/main/Crypto-Inflation-Dashboard):
-
-One misunderstood aspects of the crypto market is the inflation rate of each token. The following project a dasboard that monitors the increasing supply that enters the public sphere using monthy, daily, and graphical formats.  
-
-    Skills Used:
-        -Excel
-        -Google Data Studio
-    
-    Tools used:
-        -Google Sheets 
-        -QUERY(), VLOOKUP(), ARRAYFORMULA(), IFERROR()
-        -API COnnector, Messari APIs, Coingecko APIs 
-        -Counters, Dual Axis Charts, Controls
         
 **More content displaying some of my work. It is orginized by skills and can be found here:**  
 
