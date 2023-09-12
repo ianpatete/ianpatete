@@ -14,7 +14,7 @@ Intended as a marketing funnel for crypto-interested developers, the Blockchain 
 
 **Here are a few of my [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):**
 
-[Farcaster Dashboard](https://github.com/ianpatete/Portfolio-Projects/tree/main/Crypto-Inflation-Dashboard):
+[Farcaster Dashboard](https://github.com/ianpatete/Portfolio-Projects/tree/main/desoc_scripts):
 
 Facaster is a new social platform created from first principles using blockchain primitives. An improvement over modern social platforms, Farcaster relies on public infrastructure to store account information and follower social graphs delegating complete control to the users. Using crypto content assets, Farcaster provides a censorship resistant system to publish social content online.  
 
@@ -75,6 +75,8 @@ This project involved importing and cleaning public jobs data from the City of C
 **More content displaying some of my work. It is orginized by skills and can be found here:**  
 
 [SQL](https://github.com/ianpatete/Skills/tree/main/SQL):
+
+[Python](https://github.com/ianpatete/Skills/tree/main/Python):
 
 [Excel](https://github.com/ianpatete/Skills/tree/main/Excel):
 
