@@ -1,6 +1,6 @@
 ### Hi, I’m @ianpatete
 
-Budding Data Analyst with 6 months of professional SQL, Tableau, and Excel experience. Additionally, I have spent 2 years as a crypto research analyst while completing multiple data-based projects in the space. I'm seeking a research role where my analyst skills can be further developed. 
+Budding Data Analyst with 2 years of professional SQL, Tableau, and Excel experience. Additionally, I have spent 2 years as a crypto research analyst while completing multiple data-based projects in the space. I'm seeking a research role where my analyst skills can be further developed. 
 
 The highlights of my report portfolio are the following:
 
