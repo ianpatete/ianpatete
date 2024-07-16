@@ -14,7 +14,7 @@ Intended as a marketing funnel for crypto-interested developers, the Blockchain 
 [mevETH: Manifolds Search for MEV alignment](https://docs.google.com/document/d/1xqeP6XIkHOJ6oEpl0sLmrRc1ciPLCozKE4WwosvRV28/edit?usp=sharing) 
 A protocol analysis of Manifold in July 2023 detailing the design and release from their mevETH product. The report concluded with a skeptical attitude about design's viability, which proved accurate with its lack of relevance a year later.  
 
-**Here are a few of my **data** [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):**
+Here are a few of my **data** [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):
 
 [Farcaster Dashboard](https://github.com/ianpatete/Portfolio-Projects/tree/main/desoc_scripts):
 
