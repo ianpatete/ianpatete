@@ -9,10 +9,10 @@ This report details the true events of the recent dissolution of Rook DAO, a for
 
 
 [Blockchain Fundamentals 1](https://docs.google.com/document/d/1GAXg9XqNL5PsOG2OTw6yVt_NSeV_I_fC/edit?usp=sharing&rtpof=true&sd=true) 
-Intended as a marketing funnel for crypto-interested developers, the Blockchain Fundamentals 1 report defines the core values of crypto while explaining the social and technological innovations that made it possible. Using the historic origins of the space, this report explains the most important question - Why crypto? - to potential developers looking for a purpose in their engineering.  
+Intended as a marketing funnel for crypto-interested developers, the Blockchain Fundamentals 1 report defines the core values of crypto while explaining the social and technological innovations that made it possible. Using the historical origins of the space, this report explains the most important question - Why crypto? - to potential developers looking for a purpose in their engineering.  
 
 [mevETH: Manifolds Search for MEV alignment](https://docs.google.com/document/d/1xqeP6XIkHOJ6oEpl0sLmrRc1ciPLCozKE4WwosvRV28/edit?usp=sharing) 
-A protocol analysis of Manifold in July 2023 detailing the design and release from their mevETH product. The report concluded with a skeptical attitude about design's viability, which proved accurate with its lack of relevance a year later.  
+A protocol analysis of Manifold in July 2023 detailing the design and release from their mevETH product. The report concluded with a skeptical attitude about the design's viability, which proved accurate with its lack of relevance a year later.  
 
 Here are a few of my **data** [Portfolio Projects](https://github.com/ianpatete/Portfolio-Projects):
 
